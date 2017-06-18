@@ -1,2 +1,2 @@
 # numbertumbler
-number tumbler angular
+numbrtumblr a small application written in xamarin forms targeting android basically a user can create number sets of their choosing and then they can shuffle those number sets and store picks etc.  The UI on this application is not great, but it was written to learn xamarin forms for the first time and to explore an idea.

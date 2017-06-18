@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:NumbrTumblr"
+             x:Class="NumbrTumblr.MainPage">
+
+  <!--<Label Text="Welcome to Xamarin Forms!"
+           VerticalOptions="Center"
+           HorizontalOptions="Center" />-->
+
+  <!--<ListView x:Name="LotteriesViewList">
+    <ListView.ItemTemplate>
+      <DataTemplate>
+        <TextCell Text="{Binding Lottery.LotteryName}" />
+      </DataTemplate>
+    </ListView.ItemTemplate>
+  </ListView>-->
+  
+<ContentPage.Content>
+		<!--<ListView  x:Name="LotteriesListView" RowHeight="60">
+			<ListView.ItemTemplate>
+				<DataTemplate>
+					<ViewCell>
+						<AbsoluteLayout VerticalOptions="Fill" BackgroundColor="Olive">
+							<Label Text = "{Binding LotteryID}" FontSize="24" AbsoluteLayout.LayoutBounds="0.25, 0.25, 400, 40"/>
+							<Label Text = "{Binding LotteryName}" AbsoluteLayout.LayoutBounds="50, 35, 200, 25"/>
+							--><!--<Image Source="{Binding Image}"  AbsoluteLayout.LayoutBounds="250.25, 0.25, 50, 50 "/>--><!--
+						</AbsoluteLayout>	
+					</ViewCell>
+				</DataTemplate>
+			</ListView.ItemTemplate>
+		</ListView>-->
+
+	</ContentPage.Content>
+   <!--<Button x:Name="AddItem" Text="AddLottery" Clicked="AddItem_OnClicked"></Button>-->
+
+</ContentPage>
